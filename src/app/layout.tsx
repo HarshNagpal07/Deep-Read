@@ -15,7 +15,6 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Deep Read",
-  
 };
 
 export default function RootLayout({
